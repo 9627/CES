@@ -1,0 +1,8 @@
+C:\Users\DouNai\Desktop\新建文件夹\计算器\计算器\bin\Debug\计算器.exe
+C:\Users\DouNai\Desktop\新建文件夹\计算器\计算器\bin\Debug\计算器.pdb
+C:\Users\DouNai\Desktop\新建文件夹\计算器\计算器\obj\Debug\计算器.csprojResolveAssemblyReference.cache
+C:\Users\DouNai\Desktop\新建文件夹\计算器\计算器\obj\Debug\计算器.Form1.resources
+C:\Users\DouNai\Desktop\新建文件夹\计算器\计算器\obj\Debug\计算器.Properties.Resources.resources
+C:\Users\DouNai\Desktop\新建文件夹\计算器\计算器\obj\Debug\计算器.csproj.GenerateResource.Cache
+C:\Users\DouNai\Desktop\新建文件夹\计算器\计算器\obj\Debug\计算器.exe
+C:\Users\DouNai\Desktop\新建文件夹\计算器\计算器\obj\Debug\计算器.pdb

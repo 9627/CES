@@ -1,0 +1,8 @@
+C:\Users\DouNai\Desktop\新建文件夹\电灯测试\电灯测试\bin\Debug\电灯测试.exe
+C:\Users\DouNai\Desktop\新建文件夹\电灯测试\电灯测试\bin\Debug\电灯测试.pdb
+C:\Users\DouNai\Desktop\新建文件夹\电灯测试\电灯测试\obj\Debug\电灯测试.csprojResolveAssemblyReference.cache
+C:\Users\DouNai\Desktop\新建文件夹\电灯测试\电灯测试\obj\Debug\电灯测试.Form1.resources
+C:\Users\DouNai\Desktop\新建文件夹\电灯测试\电灯测试\obj\Debug\电灯测试.Properties.Resources.resources
+C:\Users\DouNai\Desktop\新建文件夹\电灯测试\电灯测试\obj\Debug\电灯测试.csproj.GenerateResource.Cache
+C:\Users\DouNai\Desktop\新建文件夹\电灯测试\电灯测试\obj\Debug\电灯测试.exe
+C:\Users\DouNai\Desktop\新建文件夹\电灯测试\电灯测试\obj\Debug\电灯测试.pdb
