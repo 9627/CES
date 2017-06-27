@@ -22,3 +22,11 @@ C:\Users\DouNai\Desktop\新建文件夹\其他的代码\日记\日记\obj\Debug\
 C:\Users\DouNai\Desktop\新建文件夹\其他的代码\日记\日记\obj\Debug\日记.Form1.resources
 C:\Users\DouNai\Desktop\新建文件夹\其他的代码\日记\日记\obj\Debug\日记.Properties.Resources.resources
 C:\Users\DouNai\Desktop\新建文件夹\其他的代码\日记\日记\obj\Debug\日记.csproj.GenerateResource.Cache
+D:\CES\日记\日记\obj\Debug\日记.exe
+D:\CES\日记\日记\obj\Debug\日记.pdb
+D:\CES\日记\日记\bin\Debug\日记.exe
+D:\CES\日记\日记\bin\Debug\日记.pdb
+D:\CES\日记\日记\obj\Debug\日记.csprojResolveAssemblyReference.cache
+D:\CES\日记\日记\obj\Debug\日记.Form1.resources
+D:\CES\日记\日记\obj\Debug\日记.Properties.Resources.resources
+D:\CES\日记\日记\obj\Debug\日记.csproj.GenerateResource.Cache
